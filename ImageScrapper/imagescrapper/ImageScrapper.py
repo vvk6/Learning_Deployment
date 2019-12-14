@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Apr  1 12:11:13 2019
 
-@author: Jiwitesh_Sharma
 """
 from bs4 import BeautifulSoup as bs
 import os
